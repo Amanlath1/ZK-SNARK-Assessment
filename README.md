@@ -38,3 +38,5 @@ Aman Lath
 This project is licensed under the GPL-3.0 - see the LICENSE file for details
 
 # Introduction Video
+
+https://www.loom.com/share/4bcfaabe65d74db499a863ff3d1d903a?sid=57882ef7-b186-4fc5-8cff-682d201a341d
